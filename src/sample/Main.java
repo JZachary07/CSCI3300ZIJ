@@ -20,6 +20,6 @@ public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
         
-        system.out.println("This is a test");
+        System.out.println("This is a test");
     }
 }
